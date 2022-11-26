@@ -3,7 +3,7 @@ title: Yarrick's Log
 tagline: Warhammer 40K, Kill Team, Underworlds
 url: https://yarrickslog.github.io
 paginate: 1
-baseurl: "https://yarrickslog.github.io"
+baseurl: ""
 permalink: pretty
 
 # Gems
